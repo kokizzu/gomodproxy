@@ -1,4 +1,4 @@
-module goproxy
+module github.com/kokizzu/gomodproxy
 
 go 1.16
 
